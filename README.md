@@ -8,4 +8,6 @@ Toka commitsss
 
 Dev-haaran avaus
 
+Tässä sitte kehityshaarassa commit
+
 ## sd
